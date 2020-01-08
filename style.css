@@ -190,7 +190,7 @@ text {
     transition: transform 200ms linear;
     animation: rotate 40s linear infinite;
     color: #000;
-    background: url(images/6de8a19c8e6c59b4313439fcfbe887f7.jpg) 0 0 repeat / 1425px;
+    background: url(images/6de8a19c8e6c59b4313439fcfbe887f7.jpg);
     background-size: cover;
 
 }
